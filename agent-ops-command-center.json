@@ -1,0 +1,16 @@
+{
+  "name": "AI Agent Model Routing Matrix Template",
+  "description": "Public discovery mirror for AI-agent model routing, model selection, escalation rules, and Agent Ops Command Center team-license requests.",
+  "main_product": "Agent Ops Command Center",
+  "individual_price_usd": 29,
+  "team_license_price_usd": 203,
+  "model_routing_matrix_template": "https://ivelly42.github.io/ai-agent-model-routing-template/MODEL_ROUTING_MATRIX_TEMPLATE.md",
+  "main_model_routing_matrix": "https://ivelly42.github.io/agent-ops-command-center/ai-agent-model-routing-matrix.md",
+  "fast_team_request": "https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html",
+  "invoice_request_packet": "https://ivelly42.github.io/agent-ops-command-center/team-invoice-request.html",
+  "buy_page": "https://ivelly42.github.io/agent-ops-command-center/buy.html",
+  "catalog": "https://ivelly42.github.io/agent-ops-command-center/catalog.json",
+  "demand_metrics": "https://ivelly42.github.io/agent-ops-command-center/metrics/status.json",
+  "paid_zip_public": false,
+  "revenue_rule": "Revenue is proven only by checkout, receipt, payout, or seller-dashboard evidence."
+}

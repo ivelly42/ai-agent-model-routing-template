@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Open the $203 team request
+    url: https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html
+    about: Buyer requests are routed to the main Agent Ops Command Center repository.
+  - name: View demand metrics
+    url: https://ivelly42.github.io/agent-ops-command-center/metrics/status.json
+    about: Public demand and revenue-proof metrics for the launch.
