@@ -9,4 +9,10 @@
   <url>
     <loc>https://ivelly42.github.io/ai-agent-model-routing-template/agent-ops-command-center.json</loc>
   </url>
+  <url>
+    <loc>https://ivelly42.github.io/agent-ops-command-center/team-request-url.html</loc>
+  </url>
+  <url>
+    <loc>https://ivelly42.github.io/agent-ops-command-center/checkout-status.json</loc>
+  </url>
 </urlset>

@@ -48,9 +48,13 @@ Need: AI-agent model routing templates for model selection, escalation rules, re
 Proof rule: Count revenue only after checkout, receipt, payout, or seller-dashboard evidence.
 ```
 
-Fast team request:
+Primary $203 team request URL:
 
-https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html
+https://ivelly42.github.io/agent-ops-command-center/team-request-url.html
+
+Checkout status:
+
+https://ivelly42.github.io/agent-ops-command-center/checkout-status.json
 
 Invoice request packet:
 

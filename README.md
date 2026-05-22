@@ -8,7 +8,8 @@ This repository is a search and routing surface. The paid ZIP is not stored here
 
 - Model routing matrix template: https://ivelly42.github.io/ai-agent-model-routing-template/MODEL_ROUTING_MATRIX_TEMPLATE.md
 - Main model routing matrix: https://ivelly42.github.io/agent-ops-command-center/ai-agent-model-routing-matrix.md
-- Fast $203 team request: https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html
+- Primary $203 team request URL: https://ivelly42.github.io/agent-ops-command-center/team-request-url.html
+- Checkout status: https://ivelly42.github.io/agent-ops-command-center/checkout-status.json
 - Acceptance test mirror: https://ivelly42.github.io/ai-agent-acceptance-test-template/
 - Security review packet: https://ivelly42.github.io/agent-ops-command-center/team-security-review.html
 - Invoice request packet: https://ivelly42.github.io/agent-ops-command-center/team-invoice-request.html
@@ -40,7 +41,7 @@ Use this when a buyer needs a repeatable way to choose the cheapest reliable mod
 
 Open the fast team request:
 
-https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html
+https://ivelly42.github.io/agent-ops-command-center/team-request-url.html
 
 Open the invoice request packet:
 
